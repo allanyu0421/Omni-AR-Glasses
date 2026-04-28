@@ -1,0 +1,6 @@
+{
+  "name": "OmniScene Structural Validator",
+  "description": "High-precision six-force structural analysis tool for OmniScene AR glasses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Visualization", "Physics Simulation"]
+}
